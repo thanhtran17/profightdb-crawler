@@ -1,0 +1,36 @@
+# PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+env/
+
+# Compiled Python bytecode
+*.pyc
+
+# Python bytecode cache
+__pycache__/
+
+# Pytest cache
+.pytest_cache/
+
+# Python package metadata
+*.egg-info/
+
+# Distribution and build artifacts
+dist/
+build/
+
+# Python eggs
+*.egg
+
+# Optimized Python bytecode
+*.pyo
+
+# Python extension module
+*.pyd
+
+# Add any other project-specific files or folders to ignore
+# Example:
+# sensitive_config.ini
+# secret_key.txt
