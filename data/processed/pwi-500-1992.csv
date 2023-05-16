@@ -1,0 +1,501 @@
+Position,Born country,Wrestler,Previous year position,Difference,Notes
+1,United States,Sting,5,+4,
+2,United States,Randy Savage,4,+2,deceased
+3,United States,Ric Flair,3,0 (=),
+4,United States,Rick Rude,26,+22,deceased
+5,Canada,Bret Hart,21,+16,
+6,United States,Ricky Steamboat,7,+1,
+7,United States,Jerry Lawler,12,+5,
+8,United States,Scott Steiner,6,-2,
+9,United States,The Ultimate Warrior,11,+2,deceased
+10,United States,Steve Austin,31,+21,
+11,United States,Rick Steiner,10,-1,
+12,United States,Hulk Hogan,1,-11,
+13,United States,Barry Windham,14,+1,
+14,United States,Steve Williams,8,-6,deceased
+15,United States,Big Van Vader,33,+18,deceased
+16,United States,Shawn Michaels,37,+21,
+17,United States,Nikita Koloff,19,+2,
+18,Japan,Jushin Liger,27,+9,
+19,United States,Arn Anderson,9,-10,
+20,United States,Ron Simmons,29,+9,
+21,United States,The Undertaker,N/A,N/A,
+22,United States,Ted DiBiase,17,-5,
+23,United States,Big Boss Man,25,+2,deceased
+24,United States,Road Warrior Animal,18,-6,deceased
+25,Japan,The Great Muta,20,-5,
+26,United States,Jeff Jarrett,28,+2,
+27,United States,Bobby Eaton,30,+3,deceased
+28,United States,Curt Hennig,13,-15,deceased
+29,United States,Cactus Jack,45,+16,
+30,United Kingdom,Davey Boy Smith,46,+16,deceased
+31,United States,Terry Gordy,N/A,N/A,deceased
+32,United States,Brian Pillman,44,+12,deceased
+33,United States,Eddie Gilbert,43,+10,deceased
+34,United States,Road Warrior Hawk,15,-19,deceased
+35,Canada,Rick Martel,41,+6,
+36,United States,Dustin Rhodes,131,+95,
+37,United States,Eric Embry,32,-5,
+38,United States,Tom Zenk,48,+10,deceased
+39,United States,Terrance Taylor,52,+13,
+40,Canada,Earthquake,50,+10,deceased
+41,Canada,The Mountie,77,+36,
+42,United States,Tony Anthony,51,+9,
+43,United States,Dan Spivey,62,+19,
+44,Canada,Owen Hart,N/A,N/A,deceased
+45,Canada,Roddy Piper,79,+34,deceased
+46,United States,Bob Backlund,54,+8,
+47,United States,Brian Christopher,409,+362,deceased
+48,United States,Stan Hansen,24,-24,
+49,United States,Greg Valentine,53,+4,
+50,United States,Larry Zbyszko,38,-12,
+51,United States,Stan Lane,61,+10,
+52,United States,The Berzerker,68,+16,
+53,United States,Razor Ramon,76,+23,deceased
+54,United States,Irwin R. Schyster,39,-15,
+55,United States,Repo Man,90,+35,
+56,United States,Michael Hayes,60,+4,
+57,Canada,Abdullah The Butcher,35,-22,
+58,Japan,Tatsumi Fujinami,N/A,N/A,
+59,United States,Johnny B. Badd,101,+42,
+60,United States,Jake Roberts,23,-37,
+61,United States,Jim Garvin,93,+32,
+62,South Korea,Riki Choshu,91,+29,
+63,United States,Brad Armstrong,105,+42,deceased
+64,United States,Tom Prichard,118,+54,
+65,United States,Tito Santana,134,+69,
+66,United States,Scotty Flamingo,162,+96,
+67,United States,Brian Knobbs,166,+99,
+68,United States,Mr. Hughes,168,+100,
+69,United States,Papa Shango,194,+125,
+70,United States,Bill Irwin,227,+157,
+71,United States,Typhoon,230,+159,
+72,United States,Kamala,233,+161,deceased
+73,United States,Scott Putski,245,+172,
+74,United States,Virgil,246,+172,
+75,United States,Lightning Kid,253,+178,
+76,United States,Crush,294,+218,deceased
+77,United States,Marcus Bagwell,255,+178,
+78,United States,Nailz,349,+271,
+79,United States,Sabu,389,+310,
+80,United States,Moondog Spot,396,+316,deceased
+81,United States,Sergeant Slaughter,36,-45,
+82,Japan,Mr. Saito,42,-40,deceased
+83,United States,Ricky Morton,56,-27,
+84,United States,Bam Bam Bigelow,58,-26,deceased
+85,United States,Marty Jannetty,57,-28,
+86,United States,Dick Slater,165,+79,deceased
+87,United States,Iceman King Parsons,69,-18,
+88,United States,Samu,80,-8,
+89,United States,Gary Young,81,-8,
+90,United States,The Super Invader,73,-17,deceased
+91,United States,Manny Fernandez,87,-4,
+92,United States,Beau Beverly,95,+3,
+93,United States,Tatanka,185,+92,
+94,Tonga,The Barbarian,85,-9,
+95,United States,Moondog Cujo,N/A,N/A,deceased
+96,United States,Brian Lee,N/A,N/A,
+97,Fiji Islands,Jimmy Snuka,106,+9,deceased
+98,United States,Terry Funk,22,-76,
+99,Canada,Chris Benoit,107,+8,deceased
+100,United States,Mike Graham,284,+184,deceased
+101,United States,Blake Beverly,113,+12,
+102,United States,One Man Gang,114,+12,
+103,United States,Dutch Mantel,224,+121,
+104,United States,Jerry Sags,189,+85,
+105,United States,Skinner,119,+14,
+106,Japan,Akira Nogami,135,+29,
+107,United States,Terry Simms,N/A,N/A,
+108,United States,Paul Orndorff,115,+7,deceased
+109,Japan,Genichiro Tenryu,N/A,N/A,
+110,United States,Kokina,N/A,N/A,deceased
+111,United States,Robert Fuller,102,-9,
+112,United States,Junkyard Dog,158,+46,deceased
+113,United States,Big Josh,128,+15,deceased
+114,United States,Barry Horowitz,258,+144,
+115,United States,Thomas Rich,121,+6,
+116,United States,Butch Reed,123,+7,deceased
+117,Puerto Rico,Carlos Colon,129,+12,
+118,United States,Dan Davis,137,+19,
+119,United States,Fatu,140,+21,
+120,United States,Jim Duggan,82,-38,
+121,United States,Jim Neidhart,70,-51,deceased
+122,Japan,Takayuki Iizuka,N/A,N/A,
+123,United States,Pat Tanaka,147,+24,
+124,United States,Mike Davis,145,+21,deceased
+125,New Zealand,Bushwhacker Butch,N/A,N/A,deceased
+126,United States,John Tatum,159,+33,
+127,United States,Johnny Hot Body,N/A,N/A,
+128,United States,The Warlord,75,-53,
+129,United States,Randy Rose,127,-2,
+130,United States,Brickhouse Brown,133,+3,deceased
+131,United States,Billy Black,139,+8,
+132,United States,Steve Armstrong,132,0 (=),
+133,United States,Scott Norton,141,+8,
+134,Canada,Ron Garvin,126,-8,
+135,Tonga,Haku,144,+9,
+136,United States,Doug Furnas,59,-77,deceased
+137,Canada,Ivan Koloff,154,+17,deceased
+138,United States,Colonel DeBeers,67,-71,
+139,United States,Dick Murdoch,117,-22,deceased
+140,United States,Wendell Cooley,143,+3,
+141,United States,Hercules,73,-68,deceased
+142,United States,Jim Brunzell,151,+9,
+143,Cuba,Konnan,49,-94,
+144,United States,Tracy Smothers,88,-56,
+145,United States,Jimmy Golden,N/A,N/A,
+146,United States,Alex Porteau,N/A,N/A,
+147,United States,Doug Gilbert,149,+2,
+148,United States,Kevin Sullivan,152,+4,
+149,Unknown,Neil Superstar,N/A,N/A,
+150,United States,Moondog Spike,N/A,N/A,deceased
+151,United States,C. W. Bergstrom,N/A,N/A,
+152,United States,Tony Falk,N/A,N/A,
+153,Unknown,Bill Wilcox,N/A,N/A,
+154,United States,Angel of Death,104,-50,deceased
+155,United States,Larry Cameron,103,-52,deceased
+156,Mexico,Negro Casas,111,-45,
+157,Japan,Hiro Hase,160,+3,
+158,Yugoslavia,Kato,163,+5,
+159,United States,Honky Tonk Man,170,+11,
+160,Japan,Jumbo Tsuruta,176,+16,deceased
+161,United States,Tim Horner,177,+16,
+162,United States,Sam Houston,203,+41,
+163,United States,Buddy Landell,184,+21,deceased
+164,United States,Joe Savoldi,190,+26,
+165,United States,The Sheik,192,+27,deceased
+166,United States,Billy Travis,202,+36,
+167,United States,Steven Dane,210,+43,
+168,United States,Sunny Beach,222,+54,
+169,United States,Tony Atlas,64,-105,
+170,United States,Ray Odyssey,232,+62,
+171,United Kingdom,Adrian Street,239,+68,
+172,United States,Koko B Ware,259,+87,
+173,United States,Rob Van Dam,N/A,N/A,
+174,United States,B. Brian Blair,120,-54,
+175,United States,Ricky Rice,150,-25,
+176,United States,Don Muraco,124,-52,
+177,United States,Brad Rheingans,136,-41,
+178,Japan,Antonio Inoki,34,-144,deceased
+179,Italy,Dino Bravo,47,-132,deceased
+180,United States,The Patriot,55,-125,deceased
+181,United States,Robert Gibson,63,-118,
+182,United States,Al Perez,74,-108,
+183,United States,Bob Orton Jr.,130,-53,
+184,United States,P. N. News,86,-98,
+185,United States,Axis the Demolisher,94,-91,
+186,United States,Bad News Brown,99,-87,deceased
+187,Mexico,Mil Mascaras,142,-45,
+188,United Kingdom,Bill Dundee,65,-123,
+189,United States,Joel Deaton,100,-89,
+190,United States,Kerry Von Erich,40,-150,deceased
+191,United States,Austin Idol,72,-119,
+192,United Kingdom,Chris Adams,66,-126,deceased
+193,United States,Jeff Gaylord,83,-110,
+194,United States,Big Bully Busick,84,-110,deceased
+195,United States,The Samoan Savage,96,-99,
+196,United States,Jimmy Deo,N/A,N/A,
+197,West Indies,Special Delivery Jones,N/A,N/A,deceased
+198,United States,Don Harris,N/A,N/A,
+199,United States,Bull Pain,N/A,N/A,
+200,United States,Booker T.,N/A,N/A,
+201,Canada,Dan Kroffat,169,-32,
+202,United States,Ron Harris,273,+71,
+203,United States,Vinnie Vegas,N/A,N/A,
+204,United States,Van Hammer,290,+86,
+205,Japan,Mitsuharu Misawa,187,-18,deceased
+206,United States,Tugboat Taylor,347,+141,
+207,United States,Tasmaniac,267,+60,
+208,United States,Rod Price,372,+164,
+209,United States,Masa Chono,173,-36,
+210,Japan,Toshiaki Kawada,266,+56,
+211,United States,Jesse Barr,N/A,N/A,
+212,United States,Black Bart,355,+143,
+213,United States,Kendall Windham,N/A,N/A,
+214,United Kingdom,Johnny Smith,157,-57,
+215,United States,Chaz,410,+195,
+216,United States,Mondo Kleen,263,+47,
+217,United States,Frank Lancaster,328,+111,
+218,United States,Flex Lavender,N/A,N/A,
+219,United States,Kevin Von Erich,78,-141,
+220,United States,Stevie Ray,226,+6,
+221,United States,Vladimir Koloff,N/A,N/A,
+222,United States,Bobby Fulton,164,-58,
+223,United States,The Grappler,108,-115,
+224,Yugoslavia,Nikolai Volkoff,260,+36,deceased
+225,United States,Joe Malenko,270,+45,
+226,Japan,Yoshihiro Asai,291,+65,
+227,New Zealand,Bushwhacker Luke,274,+47,
+228,Puerto Rico,Invader #1,285,+57,
+229,New Zealand,Rip Morgan,265,+36,
+230,United States,Jackie Fulton,272,+42,
+231,United States,Wahoo McDaniel,289,+58,deceased
+232,United States,Killer,292,+60,
+233,Argentina,El Gigante,112,-121,deceased
+234,United States,Dancing Wolf,N/A,N/A,
+235,Mexico,Jerry Estrada,110,-125,
+236,United States,Derrick Dukes,153,-83,
+237,United States,Pez Whatley,268,+31,deceased
+238,Canada,Lanny Poffo,229,-9,deceased
+239,United States,Rocky Jones,N/A,N/A,
+240,United States,Chris Walker,174,-66,
+241,United States,Awesome Kong,N/A,N/A,
+242,Unknown,Vladimir Markoff,N/A,N/A,
+243,United States,Ken Timbs,261,+18,deceased
+244,United States,Lou Perez,180,-64,
+245,United States,Shane Douglas,171,-74,
+246,United States,Steve Regal,182,-64,
+247,United States,D. C. Drake,178,-69,
+248,United States,Rochester Roadblock,199,-49,
+249,United States,"Dory Funk, Jr.",281,+32,
+250,United States,Tom Brandi,204,-46,
+251,United States,Larry Winters,366,+115,deceased
+252,United States,Al Madril,188,-64,
+253,United States,Tommy Rogers,193,-60,deceased
+254,United States,Brad Anderson,200,-54,
+255,United States,Vic Steamboat,179,-76,
+256,United States,The Sandman,N/A,N/A,
+257,United States,Horace Boulder,474,+217,
+258,Canada,Rocky Johnson,286,+28,deceased
+259,United States,Ron Starr,458,+199,deceased
+260,United States,Max Thrasher,444,+184,
+261,United States,Steve Doll,172,-89,deceased
+262,Unknown,Dewey,N/A,N/A,
+263,Poland,Ivan Putski,269,+6,
+264,Italy,Italian Stallion,418,+154,
+265,United States,Buddy Rogers,N/A,N/A,deceased
+266,Unknown,La Ley,N/A,N/A,
+267,United States,Chick Donovan,280,+13,
+268,United States,Mike Samples,N/A,N/A,
+269,Unknown,Adrian Hall,N/A,N/A,
+270,United States,Shawn Summers,N/A,N/A,deceased
+271,Unknown,Big D,N/A,N/A,
+272,United States,Super Destroyer,N/A,N/A,
+273,United States,Giant Warrior,N/A,N/A,
+274,India,Tiger Jeet Singh,461,+187,
+275,United States,White Cloud,N/A,N/A,
+276,Belgium,Salvatore Bellomo,N/A,N/A,deceased
+277,United States,Mike Jackson,346,+69,
+278,United States,Mark Starr,374,+96,deceased
+279,United States,Charlie Norris,216,-63,deceased
+280,Mexico,Black Tiger,N/A,N/A,
+281,Japan,Naoki Sano,N/A,N/A,
+282,United States,Watsumi the Rising Sun,N/A,N/A,
+283,United States,Rex King,197,-86,deceased
+284,United States,Ken Patera,98,-186,
+285,United States,Cheetah Kid,206,-79,deceased
+286,United States,Tommy Jammer,196,-90,
+287,United States,Mark Canterbury,N/A,N/A,
+288,Unknown,Vladimir Markoff,N/A,N/A,
+289,Unknown,Judge Dread,N/A,N/A,
+290,United States,Psycho Mike,N/A,N/A,
+291,United States,Doug Masters,214,-77,
+292,United States,J. W. Storm,335,+43,
+293,United States,Bart Sawyer,N/A,N/A,
+294,United States,The Hornet,N/A,N/A,
+295,United States,Johnny Ace,195,-100,
+296,United States,Flaming Youth,N/A,N/A,
+297,United States,D. J. Peterson,205,-92,deceased
+298,United States,A. J. Fritzoid,N/A,N/A,
+299,United States,Ken Wayne,213,-86,
+300,United States,Ricky Santana,208,-92,
+301,United States,Makhan Singh,167,-134,deceased
+302,United States,Blackheart Destruction,191,-111,
+303,Mexico,Octagon,207,-96,
+304,United States,Blackheart Apocalypse,212,-92,
+305,United States,Dutch Mantel,224,-81,
+306,United States,Rip Rogers,240,-66,
+307,Unknown,Terminator,209,-98,
+308,Puerto Rico,Miguel Perez Jr.,225,-83,
+309,United States,Dean Malenko,250,-59,
+310,Samoa,Afa,228,-82,
+311,United States,Preston Steele,235,-76,
+312,United States,Ranger Ross,231,-81,
+313,United States,Skip Young,252,-61,deceased
+314,United States,Stevie Ray,226,-88,
+315,United States,"Jay Strongbow, Jr.",234,-81,
+316,Japan,Mr. Pogo,248,-68,deceased
+317,United States,L. A. Gore,N/A,N/A,
+318,South Africa,Steve Simpson,237,-81,
+319,United States,Jack Victory,242,-77,
+320,Puerto Rico,TNT,256,-64,
+321,United States,George South,402,+81,
+322,United States,Bobby Blair,301,-21,
+323,Haiti,Tyree Pride,236,-87,
+324,United States,Teijho Khan,257,-67,deceased
+325,United States,Gary Albright,318,-7,deceased
+326,Mexico,El Hijo del Santo,293,-33,
+327,United States,Brad Batten,N/A,N/A,deceased
+328,United States,King Kahlua,315,-13,
+329,Unknown,Mark Miller,303,-26,
+330,Unknown,Larry Power,295,-35,
+331,Unknown,Jeff Collette,313,-18,
+332,United States,Mark Youngblood,321,-11,
+333,Iran,Colonel Mustafa,215,-118,
+334,Canada,John Rambo,305,-29,
+335,United States,Rob Bradley,N/A,N/A,
+336,United States,Bart Batten,314,-22,
+337,United States,Johnny Rich,306,-31,
+338,United States,Don Bass,320,-18,deceased
+339,Unknown,Jon Michaels,322,-17,
+340,United States,Ron Cumberledge,376,+36,
+341,United States,Steve Lawler,333,-8,deceased
+342,United States,Jerry Grey,325,-17,
+343,United States,Steve Cox,330,-13,
+344,United States,J. T. Smith,373,+29,
+345,Unknown,David Power,324,-21,
+346,Canada,Iron Mike Sharpe,329,-17,deceased
+347,United States,Chris Youngblood,331,-16,deceased
+348,Unknown,Mike Samson,342,-6,
+349,United States,Equalizer Zap,326,-23,deceased
+350,United States,Baron Von Raschke,332,-18,
+351,United States,Johnny Rodz,316,-35,
+352,United States,Buck Zumhofe,336,-16,
+353,United States,Ray Candy,334,-19,deceased
+354,United States,Jimmy Valiant,358,+4,
+355,United States,Psycho,338,-17,
+356,United States,Mike Winner,350,-6,
+357,United States,Tony Stetson,398,+41,
+358,United Kingdom,Les Thornton,339,-19,
+359,United States,Scott Armstrong,352,-7,
+360,Unknown,Festus,343,-17,
+361,American Samoa,Sika,327,-34,
+362,United States,Jim Backlund,353,-9,deceased
+363,United States,Brady Boone,365,+2,deceased
+364,United States,Ron Bass,299,-65,deceased
+365,United States,Hurricane Walker,354,-11,
+366,United States,Killer Brooks,359,-7,
+367,United States,Botswana Beast,361,-6,
+368,United States,Jimmy Jannetty,430,+62,
+369,United States,Rikki Nelson,364,-5,
+370,United States,Axl Rotten,369,-1,deceased
+371,United States,Tom Davis,356,-15,deceased
+372,Unknown,Equalizer Zip,323,-49,
+373,United States,Buddy Lee Parker,370,-3,
+374,Canada,Bob Brown,340,-34,deceased
+375,United States,Ron Powers,N/A,N/A,
+376,South Africa,Shaun Simpson,341,-35,
+377,United States,Steve Lombardi,377,0 (=),
+378,United States,Doug Vines,N/A,N/A,
+379,Unknown,Tony Capone,378,-1,
+380,Unknown,Zak Blades,N/A,N/A,
+381,Unknown,Mike Doggendorf,N/A,N/A,
+382,United States,Jeff Daniels,N/A,N/A,
+383,United States,The Russian Assassin,N/A,N/A,deceased
+384,Unknown,Jimmy Powell,371,-13,
+385,Unknown,Kirk Dredd,N/A,N/A,
+386,United States,Sumito,N/A,N/A,
+387,United States,Boris Zhukov,360,-27,
+388,Unknown,Super Destroyer I,N/A,N/A,
+389,United States,Killer Kyle,N/A,N/A,
+390,United States,A. C. Golden,N/A,N/A,
+391,Unknown,Agent Orange,N/A,N/A,
+392,Unknown,Manuel Villalobos,N/A,N/A,
+393,Unknown,Terry Leyland,N/A,N/A,
+394,United States,Brick Bronski,N/A,N/A,deceased
+395,United States,Tommy Dreamer,N/A,N/A,
+396,United States,Tommy Cairo,N/A,N/A,
+397,United States,David Sierra,N/A,N/A,
+398,Unknown,Freight Train Fulton,N/A,N/A,
+399,Unknown,Rock Parsons,N/A,N/A,
+400,United States,Rockin' Rebel,417,+17,deceased
+401,United States,Doug Somers,251,-150,deceased
+402,United States,Jerry Lynn,392,-10,
+403,United States,Chris Hamrick,N/A,N/A,
+404,United States,Terry Golden,N/A,N/A,
+405,United States,Joey Maggs,337,-68,deceased
+406,Unknown,Mike Cervich,388,-18,
+407,United States,Terry Daniels,351,-56,
+408,Canada,Jason the Terrible,348,-60,
+409,Unknown,T. C. Carter,277,-132,
+410,United States,Erich Sbracchia,254,-156,
+411,United States,Steve O,249,-162,
+412,United States,Russian Brute,244,-168,
+413,United States,King Cobra,217,-196,
+414,Unknown,Brian Donohue,379,-35,
+415,United States,Bob Cook,386,-29,
+416,United States,Chris Michaels,394,-22,
+417,Unknown,Nick Tarantino,N/A,N/A,
+418,Unknown,Frank Melson,384,-34,
+419,United States,Dusty Wolfe,383,-36,
+420,United States,Madd Maxx,382,-38,
+421,United States,Gene Ligon,393,-28,
+422,United States,Chris Candido,403,-19,deceased
+423,United States,Jim Powers,399,-24,
+424,United States,Perry Jackson,415,-9,
+425,United States,Lou Fabiano,401,-24,
+426,Unknown,Ron Shaw,385,-41,
+427,United States,Charlie Fulton,N/A,N/A,deceased
+428,United States,Louie Spicolli,414,-14,deceased
+429,United States,G. Q. Stratus,400,-29,
+430,United States,Jim McPherson,408,-22,
+431,United States,Mario Mancini,419,-12,
+432,Puerto Rico,Jose Luis Rivera,387,-45,
+433,United States,Solomon Grundy,421,-12,
+434,Unknown,Bull Man Downs,422,-12,
+435,Unknown,Randy Rhodes,425,-10,
+436,Unknown,Jim Lancaster,427,-9,
+437,United States,Crybaby Waldo,454,+17,deceased
+438,Unknown,Tommy Seabolt,429,-9,
+439,Unknown,Slammer,431,-8,
+440,United States,Denny Brown,434,-6,
+441,Unknown,Fred Avery,443,+2,
+442,Unknown,T. C. Reynolds,464,+22,
+443,United States,Jules Strongbow,438,-5,
+444,United States,Super Ninja,447,+3,
+445,Unknown,Death Row,466,+21,
+446,United States,Thunderfoot,426,-20,
+447,Unknown,Mad Dog Joe,462,+15,
+448,United States,Phil Apollo,472,+24,
+449,United States,Robbie Ellis,441,-8,
+450,United States,Thunderfoot II,442,-8,
+451,Unknown,Eric Fountaine,491,+40,
+452,Unknown,Freezer Thompson,477,+25,
+453,United States,Bobby Rogers,480,+27,
+454,United States,Duane Gill,499,+45,
+455,United States,Moondog Moretti,435,-20,
+456,United States,C. N. Redd,459,+3,
+457,Unknown,Star Ryder,N/A,N/A,
+458,United States,Carl Pope,N/A,N/A,
+459,Unknown,Cruel Connection II,N/A,N/A,
+460,United States,Joe Cazana,N/A,N/A,
+461,United States,Jim Pope,N/A,N/A,
+462,Unknown,T. D. Steele,468,+6,
+463,United States,Scott Summers,N/A,N/A,
+464,United States,Johnny K-9,467,+3,deceased
+465,Unknown,Douglas J. Witherspoon,N/A,N/A,
+466,United States,Austin Steele,N/A,N/A,
+467,United States,Kongo,N/A,N/A,
+468,United States,Barry Hardy,N/A,N/A,
+469,United States,Sledgehammer McGill,N/A,N/A,
+470,Unknown,Carl Colt,N/A,N/A,
+471,Unknown,Tommy Rose,N/A,N/A,
+472,Unknown,Damian Knight,N/A,N/A,
+473,United States,Jimmy James,N/A,N/A,
+474,Venezuela,El Diablo,N/A,N/A,
+475,Canada,Goldie Rogers,424,-51,
+476,Unknown,Michael Bruno,452,-24,
+477,United States,Sonny Blaze,450,-27,
+478,Unknown,Dr. Johnny Wildside,N/A,N/A,
+479,Unknown,Jammer,476,-3,
+480,Unknown,Hunter Thompson,487,+7,
+481,United States,Deadly Dutchman,N/A,N/A,
+482,United States,Metal Maniac,N/A,N/A,
+483,Unknown,Mongolian Mauler,N/A,N/A,
+484,Unknown,The Wolfman,N/A,N/A,
+485,Unknown,Ed Robinson,463,-22,
+486,Iraq,General Adnan,479,-7,
+487,United States,Tom Stone,456,-31,
+488,United States,John Rock,470,-18,
+489,United States,Khris Germany,484,-5,
+490,United States,Bobo Brazil,406,-84,deceased
+491,France,Andre the Giant,116,-375,deceased
+492,United States,Joshua Ben-Gurion,451,-41,
+493,Unknown,Psycho Sam Cody,453,-40,
+494,United States,Mr. Fuji,469,-25,deceased
+495,United States,Pete Dougherty,478,-17,
+496,Unknown,Duke Snider,495,-1,
+497,Unknown,Rasta the Voodoo Man,428,-69,
+498,Unknown,Muhammad the Butcher,412,-86,
+499,Unknown,Kid Vicious,N/A,N/A,
+500,United States,Morgus the Maniac,N/A,N/A,
